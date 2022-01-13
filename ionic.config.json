@@ -1,0 +1,7 @@
+{
+  "name": "sqltte",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
